@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--synapse-github",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/ab913579-9808-4f52-97db-2b7e8591287a/resourceGroups/synapse/providers/Microsoft.Synapse/workspaces/synapse-github",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"synapse-github-ondemand.727e1119-e9a8-4b55-a8f2-ae133632e9ec.sql.azuresynapse.net"
+		]
+	}
+}

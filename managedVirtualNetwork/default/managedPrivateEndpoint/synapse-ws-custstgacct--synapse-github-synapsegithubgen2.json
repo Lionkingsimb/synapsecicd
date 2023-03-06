@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--synapse-github-synapsegithubgen2",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/ab913579-9808-4f52-97db-2b7e8591287a/resourceGroups/synapse/providers/Microsoft.Storage/storageAccounts/synapsegithubgen2",
+		"groupId": "dfs"
+	}
+}
